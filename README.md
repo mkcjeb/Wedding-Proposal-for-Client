@@ -1,4 +1,4 @@
-### By: Team Matrix
+### By: Team Matrix (Hair and Make up Vendors)
 Michelle Kae Celine Jo-anne Bantugon (Data Engineer) <br>
 Miron Tkachuk (Data Engineer) <br>
 Srinivas Kondeti (Product Manager) <br>
