@@ -1331,6 +1331,6 @@ total_cost = str(wedding_data['subtotal'].sum())
 formatted_total_cost = '\x1b[1m\x1b[41;184;219;46m' + f'Wedding Cost:                    {round(float(total_cost), 2)}$' + '\x1b[0m\x1b[0m'  # Adding ANSI escape codes for bold and color
 print(formatted_total_cost)
 ```
-### IX. Wedding Proposal
+### IX. Wedding Proposal for Team 07
 Wedding Size: Medium (51 - 150)<br>
 Budget Level: Moderate (135 guests)
